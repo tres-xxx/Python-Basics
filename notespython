@@ -1,0 +1,24 @@
+- Write python enables to run an order directly in the console
+- Run an script or a python code just needs to wrote the word python and the
+  name of the file to execute
+- The comments are after #	
+- All the variables are objects
+- The assignment can be done just writting a comma.
+- To do a division or a multiplication it is not mandatory to have the same 
+  type of number, (i.e 2*3.5 = 7.0)
+- Precedence: +,-,*,/,%,**.
+- The identattion is the way Python agroups statements
+- Functions are like a variable, can be assigned, also be passed as arguments
+- A function retrieves a value with the word "return"
+- Functions can be called with the keyword arguments, and an argument can have
+  an assigned value
+- Conditional expressions: ==,!=,<,>,<=,>=,and == &,or == |,not
+  The strings are compared in lexical order
+- List can be heterogeneous
+- To concatenate list it is enough with +, to multiplicate a list n times it is 
+  enough with *
+- A List can be listed from right to left using negative numbers, this means 
+  the last number is going to be -1 and the first for a list of size n would
+  be -n
+- The position of a list can point to another list or to a value, there is no 
+  need of use a convertion
